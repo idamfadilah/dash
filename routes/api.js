@@ -18,6 +18,151 @@ const users = {
             "id": "1966daa0-38d3-46a6-9a47-65d805bf2ffd",
             "name": "Jane Doe",
             "email": ""
+        },
+        {
+            "id": "3a6e8e7d-3e4b-4e7f-9e8a-1a2b3c4d5e6f",
+            "name": "Alice Smith",
+            "email": ""
+        },
+        {
+            "id": "4b5c6d7e-8f9a-1b2c-3d4e-5f6g7h8i9j0k",
+            "name": "Bob Johnson",
+            "email": ""
+        },
+        {
+            "id": "1a2b3c4d-5e6f-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Sarah Williams",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "Michael Brown",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Emily Davis",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "Daniel Wilson",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Olivia Martinez",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "James Anderson",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Sophia Taylor",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "David Thomas",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Isabella Hernandez",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "Joseph Clark",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Mia Lewis",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "Andrew Lee",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Abigail Walker",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "Christopher Hall",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Elizabeth Young",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "Matthew King",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Samantha Scott",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "William Green",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Victoria Adams",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "Daniel Rodriguez",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Emily Stewart",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "Christopher Turner",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Olivia Phillips",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "Matthew Campbell",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Emma Parker",
+            "email": ""
+        },
+        {
+            "id": "5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0",
+            "name": "Andrew Evans",
+            "email": ""
+        },
+        {
+            "id": "a1b2c3d4-e5f6-7g8h-9i0j-a1b2c3d4e5f6",
+            "name": "Ava Collins",
+            "email": ""
         }
     ]
 }
@@ -57,7 +202,25 @@ router.post('/login', async (req, res) => {
 
 // Get all users
 router.get('/users', verifyToken, (req, res) => {
-    res.json(users);
+    const page = parseInt(req.query.page) || 1;
+    const limit = parseInt(req.query.limit) || 10;
+    const startIndex = (page - 1) * limit;
+    const endIndex = page * limit;
+    const results = users.users.slice(startIndex, endIndex);
+    const totalPages = Math.ceil(users.users.length / limit);
+
+    const pagination = {
+        page: page,
+        limit: limit,
+        totalItems: users.users.length,
+        totalPages: totalPages,
+        hasNextPage: endIndex < users.users.length,
+        hasPreviousPage: startIndex > 0,
+        nextPage: endIndex < users.users.length ? page + 1 : null,
+        previousPage: startIndex > 0 ? page - 1 : null
+    };
+
+    res.json({ pagination: pagination, results: results });
 });
 
 // Get a specific user by ID
