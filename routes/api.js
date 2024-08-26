@@ -111,4 +111,11 @@ router.delete('/users/:id', (req, res) => {
     res.status(401).json({ error: 'Unauthorized' });
 });
 
+
+// Logout
+router.post('/logout', (req, res) => {
+    res.clearCookie('secureCookie');
+    res.status(200).json({ message: 'Logged out successfully' });
+});
+
 module.exports = router;
